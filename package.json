@@ -1,0 +1,14 @@
+{
+  "name": "chat-o-matic-backend",
+  "version": "1.0.0",
+  "description": "chat system backend",
+  "main": "server.js",
+  "author": "ydvsailendar",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
